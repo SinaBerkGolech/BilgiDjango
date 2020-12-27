@@ -25,7 +25,7 @@ SECRET_KEY = '-nkr7^5igyatxu8*+4hiewsq5jk-s7059za4q_oqg0_trt839k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'myresourcegroupag.azurewebsites.net']
 
 
 # Application definition
